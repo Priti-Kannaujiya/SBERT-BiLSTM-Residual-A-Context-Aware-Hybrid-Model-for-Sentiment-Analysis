@@ -8,5 +8,5 @@ The proposed model predicts one of three sentiment classes:
 - `0`: Positive
 - `1`: Negative
 - `2`: Neutral
-
+ #                                            ARCHITECTURE
 <img width="1473" height="671" alt="WhatsApp Image 2026-05-14 at 2 34 25 PM" src="https://github.com/user-attachments/assets/6d7b1cba-5946-44fc-80e7-e6ddee32c206" />
